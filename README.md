@@ -1,6 +1,7 @@
 # Bookkeeping domain
 
-Assets = Liabilities + Equities
+* Assets = Liabilities + Equities
+* Chart of Accounts - list of all the accounts your business has and what types of transactions go into each one.
 
 ## Double-Entry Bookkeeping
 
@@ -9,4 +10,4 @@ Assets = Liabilities + Equities
 
 ## TODO
 
-*
+* tbc
